@@ -1,0 +1,45 @@
+form {
+  padding: 1em;
+  background: #f9f9f9;
+  border: 1px solid #c1c1c1;
+  margin-top: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form input {
+  margin-bottom: 1rem;
+  background: #fff;
+  border: 1px solid #9c9c9c;
+}
+
+form-des{
+  width = 200px
+  }
+
+form-sub {
+  background: lightgreen;
+  padding: 0.7em;
+  border: 0;
+}
+.row1 {
+  display: flex;
+  flex-direction: row;
+  gap: 70%;
+  background-image: radial-gradient(
+    circle,
+    #002dff,
+    #2457ff,
+    #4a77ff,
+    #6e95ff,
+    #94b1fa
+  );
+  margin: 0%;
+}
+

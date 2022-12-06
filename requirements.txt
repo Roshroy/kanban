@@ -1,0 +1,8 @@
+flask
+flask
+Flask-SQLAlchemy
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+Flask-Login
+Flask-WTF
+Flask-Bcrypt
